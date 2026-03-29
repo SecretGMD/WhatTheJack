@@ -1,0 +1,18 @@
+{
+    "id": 115643429,
+    "name": "Death",
+    "author": "Fireball157",
+    "creators": ["Fireball157"],
+    "verifier": "Fireball157",
+    "verification": "https://www.youtube.com/watch?v=YYvFOSnQgX0&pp=0gcJCdkKAYcqIYzv",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+       {
+            "user": "Kawby",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+       }
+    ]
+}
