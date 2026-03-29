@@ -7,6 +7,10 @@
     "verification": "https://www.youtube.com/watch?v=XRiNghIZo04",
     "percentToQualify": "100",
     "password": "Free Copy",
-    "records": ["user": "Kawby"
+    "records": [
+   {
+            "user": "Kawby",
+            "percent": 100,
+            "hz": 240
     ]
 }
