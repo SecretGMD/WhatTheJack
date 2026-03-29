@@ -1,0 +1,30 @@
+{
+    "id": 116333285,
+    "name": "Learn Yo Alphabet",
+    "author": "Fireball157",
+    "creators": ["Fireball157"],
+    "verifier": "Fireball157",
+    "verification": "https://www.youtube.com/watch?v=Tm7djWJDCv4",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+      {
+            "user": "secretagentm7",
+            "link": "https://www.youtube.com/watch?v=Tm7djWJDCv4",
+            "percent": 100,
+            "hz": 240
+      },
+        {
+            "user": "Kawby",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Talkative_Toad",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
