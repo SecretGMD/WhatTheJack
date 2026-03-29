@@ -1,0 +1,24 @@
+{
+    "id": 124513564,
+    "name": "Faint",
+    "author": "Superseal22",
+    "creators": ["Superseal22"],
+    "verifier": "Superseal22",
+    "verification": "https://medal.tv/games/geometry-dash/clips/lhZI7y2Zffy8h9NkK",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+      {
+            "user": "secretagentm7",
+            "link": "https://medal.tv/games/geometry-dash/clips/lQ6Oft4LzwYiqr23A?invite=cr-MSxjYlgsMzgzNzQ5ODI4",
+            "percent": 100,
+            "hz": 240
+      },
+        {
+            "user": "Fireball157",
+            "link": "https://outplayed.tv/geometry-dash/xm2Kaz",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
