@@ -1,0 +1,30 @@
+{
+    "id": 121850726,
+    "name": "Umbrawamba",
+    "author": "Kawby",
+    "creators": ["Kawby"],
+    "verifier": "Fireball157",
+    "verification": "https://www.youtube.com/watch?v=t3plMzDy9fk",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+      {
+          "user": "secretagentm7",
+          "link": "https://www.youtube.com/watch?v=t3plMzDy9fk",
+          "percent": 100,
+          "hz": 240
+       },
+      {
+          "user": "SuperSeal22",
+          "link": "https://www.youtube.com/shorts/osU9rFCB0WM",
+          "percent": 100,
+          "hz": 240
+       },
+      {
+        "user": "Kawby",
+        "link": "https://www.youtube.com/watch?v=gw_Upxxpuu8",
+        "percent": 100,
+        "hz": 240
+      }
+    ]
+}
