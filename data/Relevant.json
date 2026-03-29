@@ -1,0 +1,24 @@
+{
+    "id": 122453333,
+    "name": "Relevant",
+    "author": "Fireball157",
+    "creators": ["Fireball157"],
+    "verifier": "Fireball157",
+    "verification": "https://youtu.be/NzbRZAttpVo?si=fLOdvXCdZOzRpHX7",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+      {
+            "user": "secretagentm7",
+            "link": "https://medal.tv/games/geometry-dash/clips/mlWgVTMLWyFeZn8u1?invite=cr-MSxqRDEsMzgzNzQ5ODI4",
+            "percent": 100,
+            "hz": 240
+      },
+        {
+            "user": "Talkative_Toad",
+            "link": "https://www.youtube.com/watch?v=6EG_CHOgEgY",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
