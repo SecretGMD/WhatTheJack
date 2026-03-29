@@ -1,0 +1,18 @@
+{
+    "id": 131726990,
+    "name": "Reanimation",
+    "author": "Kawby",
+    "creators": ["Kawby"],
+    "verifier": "Kawby",
+    "verification": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+       {
+            "user": "Fireball157",
+            "link": "https://outplayed.tv/geometry-dash/ROdmD2",
+            "percent": 100,
+            "hz": 240
+       }
+    ]
+}
