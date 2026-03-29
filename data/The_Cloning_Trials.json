@@ -1,0 +1,24 @@
+{
+    "id": 124085932,
+    "name": "The Cloning Trials",
+    "author": "Kawby",
+    "creators": ["Kawby"],
+    "verifier": "Kawby",
+    "verification": "https://www.youtube.com/watch?v=OGpoenq8sxc",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Fireball157",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+          {
+            "user": "Secretagentm7",
+            "link": "https://medal.tv/games/geometry-dash/clips/lpWoTTFxhL3wzO8ZH?invite=cr-MSxpd1QsMzgzNzQ5ODI4",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
