@@ -1,0 +1,28 @@
+{
+    "id": 122709764,
+    "name": "Dullscapes",
+    "author": "SuperSeal22",
+    "creators": ["SuperSeal22"],
+    "verifier": "SuperSeal22",
+    "verification": "https://www.youtube.com/watch?v=WjcEJVh19Js",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+       {
+          "user": "secretagentm7",
+          "link": "https://medal.tv/games/geometry-dash/clips/logAnOUjrY96OH6mV?invite=cr-MSxTSWksNTc1NTM1NjIw",
+          "percent": 100,
+          "hz": 240
+       },
+      {
+          "user": "Fireball157",
+          "percent": 100,
+          "hz": 240
+       },
+      {
+        "user": "Kawby",
+        "percent": 100,
+        "hz", 240
+      }
+    ]
+}
