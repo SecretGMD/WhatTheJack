@@ -1,0 +1,23 @@
+{
+    "id": 134597555,
+    "name": "IQ Overload",
+    "author": "SuperSeal22",
+    "creators": ["SuperSeal22"],
+    "verifier": "SuperSeal22",
+    "verification": "medal.tv/games/geometry-dash/clips/mdcEBE4ojV4rLWysN",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+       {
+          "user": "Kawby",
+          "link": "medal.tv/games/geometry-dash/clips/mdC3o6Jk6bkHChDjP",
+          "percent": 100,
+          "hz": 240
+       },
+      {
+          "user": "Fireball157",
+          "percent": 100,
+          "hz": 240
+      }
+    ]
+}
