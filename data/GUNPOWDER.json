@@ -1,0 +1,35 @@
+{
+  "id": 121536457,
+  "name": "GUNPOWDER",
+  "author": "Kawby",
+  "creators": ["Kawby"],
+  "verifier": "Fireball157",
+  "verification": "https://outplayed.tv/geometry-dash/XaLQRQ",
+  "percentToQualify": "100",
+  "password": "Free Copy",
+  "records": [
+    {
+     "user": "Kawby",
+     "percent": 100,
+     "hz": 240
+    },
+    {
+     "user": "secretagentm7",
+     "link": "https://medal.tv/games/geometry-dash/clips/kJshjaT20xie0Ke3X",
+     "percent": 100,
+     "hz": 240
+    },
+    {
+     "user": "SuperSeal22",
+     "link": "https://medal.tv/games/geometry-dash/clips/kJshjaT20xie0Ke3X",
+     "percent": 100,
+     "hz": 240
+    },
+    {
+      "user": "Talkative_Toad",
+      "link": "https://medal.tv/games/geometry-dash/clips/kF2P3xWKdspuRFYCU?invite=cr-MSw4NkMsMzgzNzQ5ODI4",
+      "percent": 100,
+      "hz": 240
+    }
+  ]
+}
