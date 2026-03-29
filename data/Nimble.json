@@ -1,0 +1,29 @@
+{
+    "id": 130766342,
+    "name": "Nimble",
+    "author": "Secretagentm7",
+    "creators": ["Secretagentm7"],
+    "verifier": "Secretagentm7",
+    "verification": "https://youtu.be/36xm8lGEGHM",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+       {
+          "user": "Talkative_Toad",
+          "link": "",
+          "percent": 100,
+          "hz": 240
+       },
+      {
+          "user": "Fireball157",
+          "link": "https://outplayed.tv/geometry-dash/jJdMZe",
+          "percent": 100,
+          "hz": 240
+       },
+      {
+        "user": "Kawby",
+        "percent": 100,
+        "hz": 240
+      }
+    ]
+}
