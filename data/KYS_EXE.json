@@ -1,0 +1,23 @@
+{
+    "id": 117787652,
+    "name": "KYS EXE",
+    "author": "SuperSeal22",
+    "creators": ["SuperSeal22"],
+    "verifier": "Fireball157",
+    "verification": "https://youtu.be/6Y2WxSP58AM?si=zDXCq29L-D3mnsGE&t=443",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+       {
+            "user": "secretagentm7",
+            "link": "https://medal.tv/games/geometry-dash/clips/kJ1a1lSbba-nC6Kkk?invite=cr-MSxZdUgsMzgzNzQ5ODI4",
+            "percent": 100,
+            "hz": 240
+       },
+      {
+            "user": "Kawby",
+            "percent": 100,
+            "hz": 240
+       }
+    ]
+}
