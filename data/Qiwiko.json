@@ -1,0 +1,23 @@
+{
+    "id": 130998353,
+    "name": "Qiwiko",
+    "author": "Fireball157",
+    "creators": ["Fireball157"],
+    "verifier": "Fireball157",
+    "verification": "https://youtu.be/PFdgWBUQrQI",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+       {
+          "user": "secretagentm7",
+          "link": "https://medal.tv/games/geometry-dash/clips/lVeaNkXixuXhR5jl4?invite=cr-MSxMWTcsMzgzNzQ5ODI4",
+          "percent": 100,
+          "hz": 240
+       },
+      {
+        "user": "Kawby",
+        "percent": 100,
+        "hz": 240
+      }
+    ]
+}
