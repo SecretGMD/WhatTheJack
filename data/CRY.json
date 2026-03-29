@@ -1,0 +1,24 @@
+{
+    "id": 131726990,
+    "name": "C R Y",
+    "author": "Talkative_Toad",
+    "creators": ["Talkative_Toad"],
+    "verifier": "Talkative_Toad",
+    "verification": "https://www.youtube.com/watch?v=a23GYeqWkUU",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+       {
+            "user": "Fireball157",
+            "link": "https://www.youtube.com/watch?v=izd9a5duzMs",
+            "percent": 100,
+            "hz": 240
+       },
+      {
+            "user": "Kawby",
+            "percent": 100,
+            "hz": 240
+       },
+      
+    ]
+}
