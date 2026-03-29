@@ -1,0 +1,23 @@
+{
+    "id": 126866369,
+    "name": "Simpler Cubes",
+    "author": "Fireball157",
+    "creators": ["Fireball157"],
+    "verifier": "Fireball157",
+    "verification": "https://youtu.be/ooTXvMYGuQ8",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+       {
+          "user": "Kawby",
+          "percent": 100,
+          "hz": 240
+       },
+      {
+        "user": "secretagentm7",
+        "link": "medal.tv/games/geometry-dash/clips/lQuTas5J7oRurNVeo",
+        "percent": 100,
+        "hz": 240
+      }
+    ]
+}
