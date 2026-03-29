@@ -1,0 +1,24 @@
+{
+    "id": 136348190,
+    "name": "St Agony",
+    "author": "SuperSeal22",
+    "creators": ["SuperSeal22"],
+    "verifier": "SuperSeal22",
+    "verification": "https://youtu.be/l1KOs1n2SoU",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+       {
+          "user": "secretagentm7",
+          "link": "https://medal.tv/games/geometry-dash/clips/mnbKKoLuWejsMWhg2?invite=cr-MSxLV24sMzgzNzQ5ODI4",
+          "percent": 100,
+          "hz": 240
+       },
+      {
+          "user": "Fireball157",
+          "link": "",
+          "percent": 100,
+          "hz": 240
+      }
+    ]
+}
