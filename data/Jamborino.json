@@ -1,0 +1,30 @@
+{
+    "id": 117434821,
+    "name": "Jamborino",
+    "author": "Fireball157",
+    "creators": ["Fireball157"],
+    "verifier": "Fireball157",
+    "verification": "https://youtu.be/dPJni3QHNi0",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+       {
+          "user": "secretagentm7",
+          "link": "https://medal.tv/games/geometry-dash/clips/k84af3tXec0pq9dK8?invite=cr-MSxKSTIsMzgzNzQ5ODI4",
+          "percent": 100,
+          "hz": 240
+       },
+      {
+          "user": "Superseal22",
+          "link": "https://youtu.be/DptPsCd20hk?si=1xzUy-QxQuOQSBbF",
+          "percent": 100,
+          "hz": 240
+       },
+      {
+        "user": "Kawby",
+        "link": ""
+        "percent": 100,
+        "hz": 240
+      }
+    ]
+}
