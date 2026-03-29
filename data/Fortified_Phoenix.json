@@ -1,0 +1,24 @@
+{
+    "id": 121208770,
+    "name": "Fortified Phoenix",
+    "author": "Secretagentm7",
+    "creators": ["Secretagentm7"],
+    "verifier": "Fireball157",
+    "verification": "https://youtu.be/pWDc68LkTsg",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Secretagentm7",
+            "link": "https://medal.tv/games/geometry-dash/clips/lV9qyGDKF4PzEqn2K?invite=cr-MSxrWXQsMzgzNzQ5ODI4",
+            "percent": 100,
+            "hz": 240
+        },
+  {
+            "user": "Kawby",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
