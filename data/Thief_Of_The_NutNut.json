@@ -1,0 +1,23 @@
+{
+    "id": 123211930,
+    "name": "Thief of the Nutnut",
+    "author": "Secretagentm7",
+    "creators": ["Secretagentm7"],
+    "verifier": "Secretagentm7",
+    "verification": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1&pp=ygUIcmlja3JvbGygBwHSBwkJ2QoBhyohjO8%3D",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+       {
+          "user": "Fireball157",
+          "link": "https://youtu.be/wHzK-Mv1cY4?si=sE11KiE6iQ12bO8L",
+          "percent": 100,
+          "hz": 240
+       },
+      {
+        "user": "Kawby",
+        "percent": 100,
+        "hz": 240
+      }
+    ]
+}
