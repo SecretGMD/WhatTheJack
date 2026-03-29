@@ -1,0 +1,23 @@
+{
+    "id": 117826178,
+    "name": "Not Kidding",
+    "author": "secretagentm7",
+    "creators": ["secretagentm7"],
+    "verifier": "secretagentm7",
+    "verification": "https://www.youtube.com/watch?v=_4CcXxYFR0o",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+       {
+            "user": "Kawby",
+            "percent": 100,
+            "hz": 240
+       },
+      {
+        "user": "Fireball157",
+        "link": "https://youtube.com/shorts/CHg7HPpNo9Y",
+        "percent": 100,
+        "hz": 240
+      }
+    ]
+}
