@@ -8,6 +8,16 @@
     "percentToQualify": "100",
     "password": "Free Copy",
     "records": [
-
+         {
+            "user": "Secretagentm7",
+            "link": "https://medal.tv/games/geometry-dash/clips/lVALCl43U1k6guxi5?invite=cr-MSxZeDcsMzgzNzQ5ODI4&v=46",
+            "percent": 100,
+            "hz": 240
+       },
+      {
+            "user": "Kawby",
+            "percent": 100,
+            "hz": 240
+       }
     ]
 }
