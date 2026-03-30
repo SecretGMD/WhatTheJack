@@ -1,6 +1,6 @@
 {
     "id": 116770582,
-    "name": "Ant Gamer Challenge",
+    "name": "AntGamer Challenge",
     "author": "Cloning888",
     "creators": ["Cloning888"],
     "verifier": "Fireball157",
@@ -13,5 +13,5 @@
         "percent": 100,
         "hz": 240
       }
-]
+    ]
 }
