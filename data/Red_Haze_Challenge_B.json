@@ -1,0 +1,29 @@
+{
+    "id": 91261519,
+    "name": "Red Haze Challenge B",
+    "author": "Fireball157",
+    "creators": ["Fireball157", "Jawbone_1322"],
+    "verifier": "Fireball157",
+    "verification": "https://youtu.be/0MgxZCGhEmk?si=u4aD5Ft3q7tYtZ4u",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+       {
+          "user": "secretagentm7",
+          "link": "https://medal.tv/games/geometry-dash/clips/kgCm8ju9IeOtCLOoB?invite=cr-MSxScE4sMzgzNzQ5ODI4&v=19",
+          "percent": 100,
+          "hz": 240
+       },
+      {
+          "user": "Talkative_Toad",
+          "link": "",
+          "percent": 100,
+          "hz": 240
+       },
+      {
+        "user": "Kawby",
+        "percent": 100,
+        "hz": 240
+      }
+    ]
+}
