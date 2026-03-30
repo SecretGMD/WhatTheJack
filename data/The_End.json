@@ -1,0 +1,29 @@
+{
+    "id": 133809127,
+    "name": "The End",
+    "author": "SuperSeal22",
+    "creators": ["SuperSeal22"],
+    "verifier": "SuperSeal22",
+    "verification": "https://youtu.be/16QgDjdqrn4",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+       {
+          "user": "secretagentm7",
+          "link": "https://medal.tv/games/geometry-dash/clips/mnaEJtV0ALmUUYRXN?invite=cr-MSxSUlosMzgzNzQ5ODI4",
+          "percent": 100,
+          "hz": 240
+       },
+      {
+          "user": "Fireball157",
+          "link": "https://outplayed.tv/geometry-dash/dJGaKw",
+          "percent": 100,
+          "hz": 240
+       },
+      {
+        "user": "Kawby",
+        "percent": 100,
+        "hz": 240
+      }
+    ]
+}
