@@ -1,0 +1,29 @@
+{
+    "id": 115206751,
+    "name": "Dead",
+    "author": "Fireball157",
+    "creators": ["Fireball157"],
+    "verifier": "Fireball157",
+    "verification": "https://youtu.be/VF7-XIAM9iQ?si=AcvJLjM1FrIptBC2",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+               {
+          "user": "Talkative_Toad",
+          "link": "https://medal.tv/games/geometry-dash/clips/k59ctwfwUBuA2hVNb?invite=cr-MSxMVFQsNDU5NDkwNDY4",
+          "percent": 100,
+          "hz": 240
+       },
+      {
+          "user": "Secretagentm7",
+          "link": "https://medal.tv/games/geometry-dash/clips/k8sNcLHCEWZVo5neC?invite=cr-MSxObFIsMzgzNzQ5ODI4",
+          "percent": 100,
+          "hz": 240
+       },
+      {
+        "user": "Kawby",
+        "percent": 100,
+        "hz": 240
+      }
+    ]
+}
