@@ -1,13 +1,13 @@
 [
     {
         "role": "owner",
-        "name": "NicoPlayZ9002",
-        "link": "https://www.youtube.com/@NicoPlayZ9002"
+        "name": "SecretGMD",
+        "link": "https://www.youtube.com/@SecretGMD"
     },
     {
         "role": "admin",
-        "name": "",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Nicoplayz",
+        "link": "https://youtube.com/@nicoplayz9002?si=xAPxJGTWzCPpy7aA"
     },
     {
         "role": "helper",
@@ -21,7 +21,9 @@
     },
     {
         "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Nicoplayz",
+        "link": "https://youtube.com/@nicoplayz9002?si=xAPxJGTWzCPpy7aA",
+        "name": "Secretagentm7",
+        "link": "https://www.youtube.com/@SecretGMD"
     }
 ]
