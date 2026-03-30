@@ -1,0 +1,29 @@
+{
+    "id": 121923779,
+    "name": "Boxing Match",
+    "author": "Fireball157",
+    "creators": ["Firebal157"],
+    "verifier": "Fireball157",
+    "verification": "https://youtu.be/e0siwouvSoo",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+      {
+          "user": "Secretagentm7",
+          "link": "",
+          "percent": 100,
+          "hz": 240
+       },
+          {
+          "user": "Superseal22",
+          "link": "",
+          "percent": 100,
+          "hz": 240
+       },
+      {
+        "user": "Kawby",
+        "percent": 100,
+        "hz": 240
+      }
+    ]
+}
