@@ -52,10 +52,10 @@ export async function fetchLeaderboard() {
     const scoreMap = {};
     const errs = [];
     list.forEach(([level, err], rank) => {
-        if (err) {
-            errs.push(err);
-            return;
-        }
+        if (!level.verifier) console.error(`❌ Rank ${rank + 1} "${level.name}" missing verifier`);
+    level.records?.forEach((r, i) => {
+        if (!r.user) console.error(`❌ Rank ${rank + 1} "${level.name}" record #${i} missing user`);
+    });
 
         // Verification
         const verifier = Object.keys(scoreMap).find(
