@@ -8,6 +8,23 @@
     "percentToQualify": "100",
     "password": "Free Copy",
     "records": [
+         {
+          "user": "secretagentm7",
+          "link": " https://outplayed.tv/geometry-dash/6EK5gB",
+          "percent": 100,
+          "hz": 240
+       },
+      {
+          "user": "Talkative_Toad",
+          "link": "",
+          "percent": 100,
+          "hz": 240
+       },
+      {
+        "user": "Kawby",
+        "percent": 100,
+        "hz": 240
+      }
 
     ]
 }
