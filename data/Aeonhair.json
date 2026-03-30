@@ -1,0 +1,23 @@
+{
+    "id": 125317071,
+    "name": "Aeonhair",
+    "author": "Secretagentm7",
+    "creators": ["Secretagentm7"],
+    "verifier": "Fireball157",
+    "verification": "https://youtu.be/vwN84SsJlH4",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+      {
+          "user": "Secretagentm7",
+          "link": "https://medal.tv/games/geometry-dash/clips/l2SH1FoZBZZeb76yq?invite=cr-MSxDcHgsMzgzNzQ5ODI4&v=43",
+          "percent": 100,
+          "hz": 240
+       },
+      {
+        "user": "Kawby",
+        "percent": 100,
+        "hz": 240
+      }
+    ]
+}
