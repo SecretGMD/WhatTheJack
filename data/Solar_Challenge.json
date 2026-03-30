@@ -1,0 +1,29 @@
+{
+    "id": 121015461,
+    "name": "Solar Challenge",
+    "author": "Fireball157",
+    "creators": ["Fireball157"],
+    "verifier": "Fireball157",
+    "verification": "https://youtu.be/xzqv1wMHaEg",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+          {
+          "user": "Superseal22",
+          "link": "",
+          "percent": 100,
+          "hz": 240
+       },
+      {
+          "user": "Secretagentm7",
+          "link": "https://medal.tv/games/geometry-dash/clips/kTn7dsQjObTsHG8HR?invite=cr-MSxWME4sMzgzNzQ5ODI4&v=24",
+          "percent": 100,
+          "hz": 240
+       },
+      {
+        "user": "Kawby",
+        "percent": 100,
+        "hz": 240
+      }  
+]
+}
