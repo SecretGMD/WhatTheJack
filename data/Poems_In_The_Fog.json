@@ -1,0 +1,23 @@
+{
+    "id": 90477012 ,
+    "name": "Poems in the Fog",
+    "author": "Secretagentm7",
+    "creators": ["Secretagentm7"],
+    "verifier": "Secretagentm7",
+    "verification": "https://youtu.be/nX8BwWGeoaM",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+      {
+          "user": "Fireball157",
+          "link": "",
+          "percent": 100,
+          "hz": 240
+       },
+      {
+        "user": "Kawby",
+        "percent": 100,
+        "hz": 240
+      }
+    ]
+}
