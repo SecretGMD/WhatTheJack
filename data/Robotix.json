@@ -1,0 +1,23 @@
+{
+    "id": 120993475,
+    "name": "Robotix",
+    "author": "Secretagentm7",
+    "creators": ["Secretagentm7"],
+    "verifier": "Fireball157",
+    "verification": "https://youtu.be/_lBd5C5JU2E?si=cBT6ycnOb3lfcPEn",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+      {
+          "user": "Secretagentm7",
+          "link": "https://medal.tv/games/geometry-dash/clips/kVlh7EC278pZ-jvp1?invite=cr-MSxoOXosMzgzNzQ5ODI4",
+          "percent": 100,
+          "hz": 240
+       },
+      {
+        "user": "Kawby",
+        "percent": 100,
+        "hz": 240
+      }
+    ]
+}
