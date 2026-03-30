@@ -1,0 +1,23 @@
+{
+    "id": 125317071,
+    "name": "Burning Down",
+    "author": "Secretagentm7",
+    "creators": ["Secretagentm7"],
+    "verifier": "Fireball157",
+    "verification": "https://youtu.be/0GRa9KyYFn0",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+      {
+          "user": "Secretagentm7",
+          "link": "https://medal.tv/games/geometry-dash/clips/kTr0j9rxYqrQe6GZw?invite=cr-MSxRR3QsMzgzNzQ5ODI4",
+          "percent": 100,
+          "hz": 240
+       },
+      {
+        "user": "Kawby",
+        "percent": 100,
+        "hz": 240
+      }
+    ]
+}
