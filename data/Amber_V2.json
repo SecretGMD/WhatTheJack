@@ -1,0 +1,17 @@
+{
+    "id": 117930513,
+    "name": "Amber V2 (solo)",
+    "author": "Fireball157",
+    "creators": ["Fireball157"],
+    "verifier": "Fireball157",
+    "verification": "https://youtu.be/eTOZnXOyUUM?si=RN12NgMn0jtgzUBC",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+       {
+            "user": "Kawby",
+            "percent": 100,
+            "hz": 240
+       }
+    ]
+}
