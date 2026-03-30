@@ -1,0 +1,29 @@
+{
+    "id": 117824787,
+    "name": "Finale",
+    "author": "SuperSeal22",
+    "creators": ["SuperSeal22"],
+    "verifier": "SuperSeal22",
+    "verification": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1&pp=ygUIcmlja3JvbGygBwE%3D",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+       {
+          "user": "secretagentm7",
+          "link": "https://medal.tv/games/geometry-dash/clips/kaz2qPYJ46CcUU2rv?invite=cr-MSxTUzMsMzgzNzQ5ODI4",
+          "percent": 100,
+          "hz": 240
+       },
+      {
+          "user": "Fireball157",
+          "link": "https://outplayed.tv/geometry-dash/v8M2Dl",
+          "percent": 100,
+          "hz": 240
+       },
+      {
+        "user": "Kawby",
+        "percent": 100,
+        "hz": 240
+      }
+    ]
+}
