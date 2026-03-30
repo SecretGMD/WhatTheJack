@@ -8,6 +8,29 @@
     "percentToQualify": "100",
     "password": "Free Copy",
     "records": [
+                   {
+          "user": "Fireball157",
+          "link": "https://www.youtube.com/watch?v=ivr7eARwxhM",
+          "percent": 100,
+          "hz": 240
+       },
+      {
+          "user": "Secretagentm7",
+          "link": "https://medal.tv/games/geometry-dash/clips/kcy2Swp55GsA8aUCr?invite=cr-MSxRQ2gsMzgzNzQ5ODI4",
+          "percent": 100,
+          "hz": 240
+       },
+          {
+          "user": "Talkative_Toad",
+          "link": "",
+          "percent": 100,
+          "hz": 240
+       },
+      {
+        "user": "Kawby",
+        "percent": 100,
+        "hz": 240
+      }
 
     ]
 }
