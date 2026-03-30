@@ -1,0 +1,29 @@
+{
+    "id": 117332690,
+    "name": "The False Knight",
+    "author": "SuperSeal22",
+    "creators": ["SuperSeal22"],
+    "verifier": "SuperSeal22",
+    "verification": "",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+       {
+          "user": "secretagentm7",
+          "link": "https://medal.tv/games/geometry-dash/clips/k9COkYws1sN7haTug?invite=cr-MSxwS0YsMzgzNzQ5ODI4&v=29",
+          "percent": 100,
+          "hz": 240
+       },
+      {
+          "user": "Fireball157",
+          "link": "https://youtu.be/c38taOirEFw?si=8ooIc9aA0gJcHfoB",
+          "percent": 100,
+          "hz": 240
+       },
+      {
+        "user": "Kawby",
+        "percent": 100,
+        "hz": 240
+      }
+    ]
+}
