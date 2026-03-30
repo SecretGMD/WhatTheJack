@@ -8,8 +8,35 @@
     "percentToQualify": "100",
     "password": "Free Copy",
     "records": [
-{
-
-}
+                {
+          "user": "Secretagentm7",
+          "link": "https://medal.tv/games/geometry-dash/clips/kaPsy1a58XEIJ9HS6?invite=cr-MSxBUXYsMzgzNzQ5ODI4&v=19",
+          "percent": 100,
+          "hz": 240
+       },
+        {
+          "user": "Kawby",
+          "link": "",
+          "percent": 100,
+          "hz": 240
+       },
+        {
+          "user": "SuperSeal22",
+          "link": "",
+          "percent": 100,
+          "hz": 240
+       },
+        {
+          "user": "Talkative_Toad",
+          "link": "",
+          "percent": 100,
+          "hz": 240
+       },
+        {
+          "user": "Chroma",
+          "link": "https://outplayed.tv/geometry-dash/D8J1R1",
+          "percent": 100,
+          "hz": 240
+       }
 ]
 }
