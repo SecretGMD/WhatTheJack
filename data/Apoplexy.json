@@ -8,6 +8,17 @@
     "percentToQualify": "100",
     "password": "Free Copy",
     "records": [
+               {
+            "user": "Fireball157",
+            "link": "https://youtu.be/_lBd5C5JU2E?si=Cfnajo8DC3M-RadI",
+            "percent": 100,
+            "hz": 240
+       },
+      {
+            "user": "Kawby",
+            "percent": 100,
+            "hz": 240
+       }
 
     ]
 }
