@@ -2,14 +2,12 @@
     "id": 121931450,
     "name": "Eye of Ender",
     "author": "secretagentm7",
-    "creators": ["secretagentm7"],
+    "creators": [
+        "secretagentm7"
+    ],
     "verifier": "secretagentm7",
     "verification": "https://medal.tv",
     "percentToQualify": "100",
     "password": "Free Copy",
-    "records": [
-{
-
-}
-]
+    "records": []
 }
