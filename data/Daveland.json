@@ -8,8 +8,24 @@
     "percentToQualify": "100",
     "password": "Free Copy",
     "records": [
-{
-
+         {
+          "user": "secretagentm7",
+          "link": "https://medal.tv/games/geometry-dash/clips/mnYYEVJ4iBj90-1Dg?invite=cr-MSxyRE0sMzgzNzQ5ODI4&v=41",
+          "percent": 100,
+          "hz": 240
+       },
+      {
+          "user": "Fireball157",
+          "link": "https://outplayed.tv/geometry-dash/rZBoly",
+          "percent": 100,
+          "hz": 240
+       },
+      {
+        "user": "Kawby",
+        "percent": 100,
+        "hz": 240
+      }
+    ]
 }
 ]
 }
