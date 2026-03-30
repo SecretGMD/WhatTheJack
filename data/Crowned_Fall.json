@@ -1,0 +1,29 @@
+{
+    "id": 118560889,
+    "name": "Crowned Fall",
+    "author": "Secretagentm7",
+    "creators": ["Secretagentm7"],
+    "verifier": "Secretagentm7",
+    "verification": "https://youtu.be/i9cpCOAlmtY",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+       {
+          "user": "Talkative_Toad",
+          "link": "",
+          "percent": 100,
+          "hz": 240
+       },
+      {
+          "user": "Fireball157",
+          "link": "https://www.youtube.com/watch?v=eTOZnXOyUUM",
+          "percent": 100,
+          "hz": 240
+       },
+      {
+        "user": "Kawby",
+        "percent": 100,
+        "hz": 240
+      }
+    ]
+}
