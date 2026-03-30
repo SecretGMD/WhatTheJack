@@ -8,8 +8,23 @@
     "percentToQualify": "100",
     "password": "Free Copy",
     "records": [
-{
-
-}
+       {
+          "user": "Fireball",
+          "link": "",
+          "percent": 100,
+          "hz": 240
+       },
+      {
+          "user": "Kawby",
+          "link": "",
+          "percent": 100,
+          "hz": 240
+      },
+    {
+        "user": "Secret",
+        "link": "",
+        "percent": 100,
+        "hz": 240
+    }
 ]
 }
