@@ -1,0 +1,23 @@
+{
+    "id": 111726532,
+    "name": "HardWaveChallenge1",
+    "author": "Secretagentm7",
+    "creators": ["Secretagentm7"],
+    "verifier": "Secretagentm7",
+    "verification": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1&pp=ygUIcmlja3JvbGygBwE%3D",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+      {
+          "user": "Fireball157",
+          "link": "",
+          "percent": 100,
+          "hz": 240
+       },
+      {
+        "user": "Kawby",
+        "percent": 100,
+        "hz": 240
+      }
+    ]
+}
