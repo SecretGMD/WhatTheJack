@@ -1,0 +1,23 @@
+{
+    "id": 118611123,
+    "name": "Empress",
+    "author": "Secretagentm7",
+    "creators": ["Secretagentm7"],
+    "verifier": "Fireball157",
+    "verification": "https://youtu.be/eTOZnXOyUUM?si=9b2FFxbtS2gkJp8c",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+      {
+          "user": "Secretagentm7",
+          "link": "https://medal.tv/games/geometry-dash/clips/kfNvKUSkrC6CpzykS?invite=cr-MSxjU1ksMzgzNzQ5ODI4",
+          "percent": 100,
+          "hz": 240
+       },
+      {
+        "user": "Kawby",
+        "percent": 100,
+        "hz": 240
+      }
+    ]
+}
