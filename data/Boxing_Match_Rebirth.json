@@ -4,8 +4,26 @@
     "author": "Fireball157",
     "creators": ["Kawby","Fireball157"],
     "verifier": "Fireball157",
-    "verification": "https://outplayed.tv/geometry-dash/B1K3jx",
+    "verification": "https://youtu.be/y5ZAtzzTFU8",
     "percentToQualify": "100",
     "password": "Free Copy",
-    "records": []
+    "records": [
+          {
+          "user": "Superseal22",
+          "link": "https://medal.tv/games/geometry-dash/clips/mm0JHKzt8KXUknDrT?invite=cr-MSxUczYsMzgzNzQ5ODI4",
+          "percent": 100,
+          "hz": 240
+       },
+      {
+          "user": "Secretagentm7",
+          "link": "https://medal.tv/games/geometry-dash/clips/mnYcYjSdv-VXlppfa?invite=cr-MSxZUkksMzgzNzQ5ODI4&v=36",
+          "percent": 100,
+          "hz": 240
+       },
+      {
+        "user": "Kawby",
+        "percent": 100,
+        "hz": 240
+      }
+    ]
 }
