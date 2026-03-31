@@ -4,8 +4,26 @@
     "author": "secretagentm7",
     "creators": ["secretagentm7"],
     "verifier": "secretagentm7",
-    "verification": "https://medal.tv/games/geometry-dash/clips/k9eNGxEQ7lt5n45Mx?invite=cr-MSxjREgsMzgzNzQ5ODI4",
+    "verification": "https://youtu.be/CmZOAQ5yKCo",
     "percentToQualify": "100",
     "password": "Free Copy",
-    "records": []
+    "records": [
+           {
+          "user": "Talkative_Toad",
+          "link": "",
+          "percent": 100,
+          "hz": 240
+       },
+      {
+          "user": "Fireball157",
+          "link": "https://outplayed.tv/geometry-dash/eVj7o8",
+          "percent": 100,
+          "hz": 240
+       },
+      {
+        "user": "Kawby",
+        "percent": 100,
+        "hz": 240
+      }
+    ]
 }
