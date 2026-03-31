@@ -7,5 +7,23 @@
     "verification": "https://www.youtube.com/watch?v=eTOZnXOyUUM",
     "percentToQualify": "100",
     "password": "Free Copy",
-    "records": []
+    "records": [
+                   {
+          "user": "Talkative_Toad",
+          "link": "",
+          "percent": 100,
+          "hz": 240
+       },
+      {
+          "user": "Secretagentm7",
+          "link": "https://medal.tv/games/geometry-dash/clips/kaxYwuCh6LEFMCRyU?invite=cr-MSxNN0gsMzgzNzQ5ODI4&v=25",
+          "percent": 100,
+          "hz": 240
+       },
+      {
+        "user": "Kawby",
+        "percent": 100,
+        "hz": 240
+      }
+    ]
 }
