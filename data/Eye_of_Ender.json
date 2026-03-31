@@ -2,12 +2,29 @@
     "id": 121931450,
     "name": "Eye of Ender",
     "author": "secretagentm7",
-    "creators": [
-        "secretagentm7"
-    ],
+    "creators": ["secretagentm7"],
     "verifier": "secretagentm7",
-    "verification": "https://medal.tv",
+    "verification": "",
     "percentToQualify": "100",
     "password": "Free Copy",
-    "records": []
+    "records": [
+              {
+          "user": "Talkative_Toad",
+          "link": "",
+          "percent": 100,
+          "hz": 240
+       },
+           {
+          "user": "Fireball157",
+          "link": "https://outplayed.tv/geometry-dash/J2aJN3",
+          "percent": 100,
+          "hz": 240
+       },
+      {
+        "user": "Kawby",
+        "percent": 100,
+        "hz": 240
+      } 
+
+    ]
 }
