@@ -4,8 +4,32 @@
     "author": "FireBall157",
     "creators": ["FireBall157"],
     "verifier": "FireBall157",
-    "verification": "https://medal.tv/games/geometry-dash/clips/kYeNL7nINOjcbh6Lk?invite=cr-MSxOU3osNTc1NTM1NjIw",
+    "verification": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1&pp=ygUIcmlja3JvbGygBwE%3D",
     "percentToQualify": "100",
     "password": "Free Copy",
-    "records": []
+    "records": [
+        {
+          "user": "Secretagentm7",
+          "link": "https://medal.tv/games/geometry-dash/clips/kZnuv6T4RG4mPhseU?invite=cr-MSxBSVQsMzgzNzQ5ODI4&v=60",
+          "percent": 100,
+          "hz": 240
+       },
+        {
+          "user": "Talkative_Toad",
+          "link": "",
+          "percent": 100,
+          "hz": 240
+       },
+        {
+          "user": "Superseal22",
+          "link": "",
+          "percent": 100,
+          "hz": 240
+       },
+      {
+        "user": "Kawby",
+        "percent": 100,
+        "hz": 240
+      }
+    ]
 }
