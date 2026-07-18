@@ -8,5 +8,12 @@
     "percentToQualify": "100",
     "password": "Free Copy",
     "records": [
+        {
+          "user": "Kawby",
+          "link": "https://outplayed.tv/geometry-dash/dJGaKw",
+          "percent": 100,
+          "hz": 240
+       }
     ]
+    
 }
